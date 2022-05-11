@@ -22,7 +22,7 @@ setuptools.setup(
         'Cython'
     ],
     install_requires=[
-        'pandas==1.3.0',
+        'pandas',
         'requests',
         'iso8601',
         'setuptools'
